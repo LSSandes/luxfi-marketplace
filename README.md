@@ -68,37 +68,4 @@ Reservoir Market v2 is lightly configurable with the configurations below. You c
 | NEXT_PUBLIC_DATADOG_APPLICATION_ID | `false` | Datadog application id for configuring analytics. | 123cccbb-1234-1111-4411-abc12345612afgds |
 | NEXT_PUBLIC_MARKETPLACE_SOURCE | `false` | Marketplace source, used to attribute a source to orders. Must be a valid domain | reservoir.tools |
 
-In addition to the configuration above we've also added comments prefixed with `CONFIGURABLE:` throughout the app pointing out some pieces of code where you could customize functionality. After cloning the app make sure to search the repo for the aforementioned prefix.
-=======
-## Development
->>>>>>> efc8787 (Add LICENSE)
 
-### Run the App
-
-Once you have your setup ready, run:
-
-With yarn:
-
-    $ yarn dev
-
-With npm:
-
-    $ npm run dev
-
-### Deploy with Vercel
-
-This is a Next.js app that can be easily deployed using [Vercel](https://vercel.com/). For more information on how to deploy your Github repository with Vercel visit their [docs](https://vercel.com/docs/concepts/projects/overview).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
-## Contact
-
-Twitter: [@luxdefi](https://twitter.com/luxdefi)
-Project Link: [Reservoir](https://lux.finance/)
-
-
-## License
-
-This project is MIT licensed.
